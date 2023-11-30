@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633919282597",
+    "project_id": "proy-des02",
+    "storage_bucket": "proy-des02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633919282597:android:98a587a87fb5ea6fae9c4c",
+        "android_client_info": {
+          "package_name": "com.jlp.desdam02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ZH83yds8aZ5ClY8gNGYaYsPr5WHv6yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633919282597:android:bf454939c67b9824ae9c4c",
+        "android_client_info": {
+          "package_name": "com.jlp.eventosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ZH83yds8aZ5ClY8gNGYaYsPr5WHv6yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
